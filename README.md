@@ -262,4 +262,4 @@ Function Prototypes
     * Extracting the root node.
     * Searching for a node in a binary heap of size `n`.
 
-## Authors : __Abel Tadesse__ <[Abel Tadesse](https://github.com/Abeltadesse19
+## Authors : __Abel Tadesse Assefa__ <[Abel Tadesse Assefa](https://github.com/Abeltadesse19
